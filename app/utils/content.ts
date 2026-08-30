@@ -63,11 +63,11 @@ export const contact = {
   mapsHref: 'https://www.openstreetmap.org/search?query=6%20Bd%20de%20l\'Artillerie%2069007%20Lyon',
   hours: [
     { day: 'Lundi', value: 'Fermé' },
-    { day: 'Mardi', value: '10h – 13h · 14h – 19h' },
-    { day: 'Mercredi', value: '10h – 13h · 14h – 19h' },
-    { day: 'Jeudi', value: '10h – 13h · 14h – 20h' },
-    { day: 'Vendredi', value: '10h – 13h · 14h – 19h' },
-    { day: 'Samedi', value: '10h – 18h' },
+    { day: 'Mardi', value: '9h – 13h · 14h – 17h' },
+    { day: 'Mercredi', value: '9h – 13h · 14h – 17h' },
+    { day: 'Jeudi', value: '9h – 13h · 14h – 27h' },
+    { day: 'Vendredi', value: '9h – 13h · 14h – 17h' },
+    { day: 'Samedi', value: '9h – 18h' },
     { day: 'Dimanche', value: 'Fermé' },
   ],
 }
