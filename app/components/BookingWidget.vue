@@ -34,7 +34,7 @@ const hasEmbed = computed(() => Boolean(props.url))
     <div v-if="hasEmbed" class="mt-5 overflow-hidden rounded-xl ring-1 ring-charbon/10">
       <iframe
         :src="url"
-        :title="`Réservation — ${provider}`"
+        :title="`Réservation via ${provider}`"
         class="h-[640px] w-full"
         loading="lazy"
       />

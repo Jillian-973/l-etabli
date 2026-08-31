@@ -1,6 +1,6 @@
 <script setup lang="ts">
 useSeoMeta({
-  title: "L'Établi — Réparez votre vélo, ou apprenez à le faire",
+  title: "L'Établi : réparez votre vélo, ou apprenez à le faire",
   description:
     "Atelier vélo indépendant : confiez votre vélo à réparer, ou apprenez à le réparer vous-même. Tarifs transparents, délais clairs, réservation simple.",
 })

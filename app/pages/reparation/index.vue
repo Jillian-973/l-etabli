@@ -1,6 +1,6 @@
 <script setup lang="ts">
 useSeoMeta({
-  title: "Réparation confiée — L'Établi",
+  title: "Réparation confiée | L'Établi",
   description:
     "Déposez votre vélo, l'atelier s'occupe de tout. Diagnostic gratuit, devis clair avant intervention, réparation dans la semaine. Réservez un créneau en ligne.",
 })

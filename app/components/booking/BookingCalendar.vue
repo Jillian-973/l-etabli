@@ -81,7 +81,7 @@ const cells = computed<Cell[]>(() => {
       isToday: key === todayKey,
       available,
       selected: key === props.selectedDate,
-      label: `${fullDateFmt.format(d)}${available ? ' — créneaux disponibles' : ' — indisponible'}`,
+      label: `${fullDateFmt.format(d)}${available ? ', créneaux disponibles' : ', indisponible'}`,
     }
   })
 })

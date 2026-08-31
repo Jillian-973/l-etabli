@@ -3,7 +3,7 @@ const route = useRoute()
 const slug = computed(() => String(route.params.slug ?? ''))
 
 useSeoMeta({
-  title: 'Vélo d\'occasion — Bientôt disponible — L\'Établi',
+  title: 'Vélo d\'occasion, bientôt disponible | L\'Établi',
   description: "Les fiches vélos d'occasion ne sont pas encore disponibles.",
   robots: 'noindex',
 })

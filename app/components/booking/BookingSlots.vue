@@ -23,10 +23,8 @@ function spotsLabel(slot: BookingSlot): string | null {
 
 <template>
   <div class="rounded-2xl bg-creme-50 p-5 ring-1 ring-charbon/10 sm:p-6">
-    <h3 class="text-base font-bold text-charbon">
-      <template v-if="day">Créneaux — {{ day.label }}</template>
-      <template v-else>Créneaux</template>
-    </h3>
+    <h3 class="text-base font-bold text-charbon">Créneaux</h3>
+    <p v-if="day" class="mt-0.5 text-sm text-charbon/60">{{ day.label }}</p>
 
     <!-- Aucun jour choisi -->
     <div

@@ -6,7 +6,7 @@ withDefaults(defineProps<{ compact?: boolean }>(), { compact: false })
   <NuxtLink
     to="/"
     class="group inline-flex items-center gap-2.5 rounded-lg focus-visible:outline-none"
-    aria-label="L'Établi — retour à l'accueil"
+    aria-label="L'Établi, retour à l'accueil"
   >
     <!-- Marque : engrenage stylisé façon estampille d'atelier -->
     <span

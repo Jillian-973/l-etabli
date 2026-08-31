@@ -1,6 +1,6 @@
 <script setup lang="ts">
 useSeoMeta({
-  title: 'Infos pratiques — L\'Établi',
+  title: 'Infos pratiques | L\'Établi',
   description:
     "Adresse, horaires, téléphone, Instagram et accès de L'Établi. Toutes les infos pour venir à l'atelier et réserver.",
 })

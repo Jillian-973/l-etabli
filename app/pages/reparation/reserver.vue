@@ -1,6 +1,6 @@
 <script setup lang="ts">
 useSeoMeta({
-  title: 'Réserver une réparation — L\'Établi',
+  title: 'Réserver une réparation | L\'Établi',
   description:
     "Réservez un créneau pour déposer votre vélo, ou décrivez votre problème pour être recontacté. Simple, en moins de trois étapes.",
 })
@@ -176,7 +176,7 @@ const slotTime = computed(() => selectedSlot.value?.time ?? '')
                 « Mon frein arrière fait du bruit et freine moins bien. »
               </blockquote>
               <figcaption class="mt-2 text-sm text-creme/60">
-                — un exemple parfait
+                Un exemple parfait.
               </figcaption>
             </figure>
             <ul class="mt-5 space-y-2.5 text-sm text-creme/85">

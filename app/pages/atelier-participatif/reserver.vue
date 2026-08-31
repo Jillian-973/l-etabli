@@ -1,6 +1,6 @@
 <script setup lang="ts">
 useSeoMeta({
-  title: 'Réserver un atelier participatif — L\'Établi',
+  title: 'Réserver un atelier participatif | L\'Établi',
   description:
     "Réservez votre place à un atelier participatif : 8 places par session, tous niveaux, outils fournis.",
 })

@@ -52,7 +52,7 @@ const TYPE_LABELS: Record<BookingType, string> = {
       <p class="mt-1 text-charbon/80">{{ dayLabel }} · {{ time }}</p>
       <p class="mt-3 flex items-center gap-2 text-sm text-charbon/65">
         <TechIcon name="pin" :size="16" class="shrink-0 text-terracotta" />
-        {{ atelier.name }} — {{ atelier.address.city }}
+        {{ atelier.name }}, {{ atelier.address.city }}
       </p>
     </div>
 

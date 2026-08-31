@@ -1,6 +1,6 @@
 <script setup lang="ts">
 useSeoMeta({
-  title: "L'Établi — L'atelier",
+  title: "L'Établi, l'atelier",
   description:
     "Bois, métal, graisse et vélos : L'Établi est un atelier indépendant où l'on répare, où l'on apprend et où l'on transmet. Découvrez l'esprit du lieu.",
 })

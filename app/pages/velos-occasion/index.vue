@@ -1,6 +1,6 @@
 <script setup lang="ts">
 useSeoMeta({
-  title: 'Vélos d\'occasion — Bientôt disponible — L\'Établi',
+  title: 'Vélos d\'occasion, bientôt disponible | L\'Établi',
   description:
     "L'Établi prépare une sélection de vélos d'occasion vérifiés à l'atelier. Laissez votre e-mail pour être informé·e du lancement.",
 })

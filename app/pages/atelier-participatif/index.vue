@@ -1,6 +1,6 @@
 <script setup lang="ts">
 useSeoMeta({
-  title: 'Atelier participatif — Apprendre à réparer son vélo — L\'Établi',
+  title: 'Atelier participatif, apprendre à réparer son vélo | L\'Établi',
   description:
     "Venez avec votre vélo et apprenez à le réparer, accompagné·e par un pro. Ouvert à tous les niveaux, 8 places par session, outils fournis.",
 })

@@ -79,7 +79,7 @@ const links = siteNav.filter((l) => !l.cta)
       <div
         class="mt-12 flex flex-col gap-3 border-t border-creme/10 pt-6 text-sm text-creme/50 sm:flex-row sm:items-center sm:justify-between"
       >
-        <p>© {{ year }} L'Établi — Atelier vélo indépendant</p>
+        <p>© {{ year }} L'Établi, atelier vélo indépendant</p>
         <p>Fait à la main, comme les réparations.</p>
       </div>
     </div>

@@ -6,7 +6,7 @@ const props = defineProps<{ error: NuxtError }>()
 const is404 = computed(() => props.error?.statusCode === 404)
 
 useSeoMeta({
-  title: is404.value ? 'Page introuvable — L\'Établi' : 'Une erreur est survenue — L\'Établi',
+  title: is404.value ? 'Page introuvable | L\'Établi' : 'Une erreur est survenue | L\'Établi',
 })
 </script>
 
